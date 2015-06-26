@@ -1,0 +1,19 @@
+8
+
+dir
+2
+svn://localhost/test/CPU/src
+svn://localhost/test
+
+
+
+2008-08-08T08:05:26.437500Z
+2
+spring
+
+
+svn:special svn:externals svn:needs-lock
+
+execute
+dir
+
